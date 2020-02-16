@@ -6,5 +6,5 @@ The perceptron is an algorithm for supervised learning of binary classifiers. A 
 </p>
 
 <p align="center">
-	<img src="test.png", width="800">
+	<img src="test.png", width="400">
 </p>
